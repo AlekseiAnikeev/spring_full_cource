@@ -5,4 +5,6 @@
 # Spring core
 
 ### Dependency Injection and Inversion of Control
-- [DI and IoC](https://github.com/AlekseiAnikeev/spring_cource_dependency_injection)
+- [DI and IoC исполнение XML](https://github.com/AlekseiAnikeev/spring_cource_dependency_injection)
+- [DI and IoC исполнение Annotations](https://github.com/AlekseiAnikeev/spring_cource_dependency_injection_annotations)
+
