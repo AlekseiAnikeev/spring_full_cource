@@ -8,3 +8,7 @@
 - [DI and IoC исполнение XML](https://github.com/AlekseiAnikeev/spring_cource_dependency_injection)
 - [DI and IoC исполнение XML + Annotations](https://github.com/AlekseiAnikeev/spring_cource_dependency_injection_annotations)
 - [DI and IoC исполнение Java](https://github.com/AlekseiAnikeev/spring_cource_dependency_injection_java_configuration)
+
+# Spring MVC
+- [Hello world xml config](https://github.com/AlekseiAnikeev/spring_mvc_xml_config_hello_world)
+- [Hello world java config](https://github.com/AlekseiAnikeev/spring_mvc_java_config_hello_world)
