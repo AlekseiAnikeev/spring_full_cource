@@ -12,3 +12,5 @@
 # Spring MVC
 - [Hello world xml config](https://github.com/AlekseiAnikeev/spring_mvc_xml_config_hello_world)
 - [Hello world java config](https://github.com/AlekseiAnikeev/spring_mvc_java_config_hello_world)
+- [Работа с контроллерами](https://github.com/AlekseiAnikeev/-spring_mvc_controller_intro)
+- [Обработка параметров запроса](https://github.com/AlekseiAnikeev/spring_mvc_request_parameters)
